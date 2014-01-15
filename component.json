@@ -1,0 +1,12 @@
+{
+  "name": "angular",
+  "repo": "nl0/component-angular",
+  "description": "AngularJS",
+  "version": "1.2.8",
+  "dependencies": {},
+  "development": {},
+  "main": "angular.js",
+  "scripts": [
+    "angular.js"
+  ]
+}
